@@ -33,7 +33,7 @@ import ffn
 from datetime import datetime
 
 # Retrieve data using ffn
-data = ffn.get("nvda,msft,googl,amzn,aapl,meta", start="2023-01-01")
+data = ffn.get("usb,amp,tgt,xel,gis,ggg", start="2023-01-01")
 
 timestamp = datetime.now().strftime("%Y-%m-%d")
 data.to_csv(f"data/raw/stock_data_{timestamp}.csv")
