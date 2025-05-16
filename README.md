@@ -1,4 +1,4 @@
-# quarto_demo
-Demo using quarto to automatically update and publish plots on a landing page with GitHub actions.
+## Twin Cities Companies
+This repository contains a list of several of the Twin Cities largest companies stock performance since the beginninng of 2023. 
 
-[Read the full blog post here](https://open.substack.com/pub/autonomousecon/p/build-a-self-updating-landing-page?r=2o1mc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+The architecture of the repository was heavily inspired by Martin Wong with adjustments as necessary to fit the needs of this project.
